@@ -8,3 +8,4 @@ video/
 notebook/plotly_video_demo.ipynb
 plotly_venv/
 eikon_venv/
+notebook/lseg-data.devrel.config.json
