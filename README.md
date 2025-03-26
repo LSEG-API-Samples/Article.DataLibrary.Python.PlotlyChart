@@ -19,7 +19,7 @@ This example project demonstrates how to use the Plotly Python library to plot v
 
 [Plotly Python](https://plotly.com/python/) is a [free](https://plotly.com/python/is-plotly-free/) and [open source](https://github.com/plotly/plotly.py) interactive graphing library for Python. The library is built on top of [plotly.js](https://plotly.com/javascript/) JavaScript library ([GitHub](https://github.com/plotly/plotly.js)). Both Plotly Python and Plotly JavaScript are part of [Plotly](https://plotly.com/)'s Dash and Chart Studio applications suites which provide interactively, scientific data visualization libraries/solutions for Data Scientists and Enterprise. 
  
-This project will focus on the Plotly Python open-source library versions **4.14.3**, **5.0.0** and **4.5.2** (In the CodeBook application). 
+This Jupyter Notebook is focusing on the Plotly Python open-source library versions **6.0.1** and **5.4.0** (on CodeBook) only. 
 
 ```python
 import plotly.express as px
